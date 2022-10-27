@@ -21,6 +21,7 @@ export default function Home({ latestComics }) {
               <a className="pb-4 m-auto mb-4">
                 <h3 className="pb-2 text-sm font-bold text-center">
                   {comic.title}
+                  
                 </h3>
                 <Image
                   width={comic.width}

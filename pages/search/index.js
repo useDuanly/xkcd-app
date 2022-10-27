@@ -28,7 +28,7 @@ export default function Component({ query, results }) {
                   className="rounded-full"
                 />
                 <div>
-                  <h2>{title}</h2>
+                  <h2>{title} :</h2>
                 </div>
               </a>
             </Link>
